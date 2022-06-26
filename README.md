@@ -1,4 +1,4 @@
-#####RGBSchool
+# RGBSchool
 
 ### The program is designed for educational learning.
 ### And she successfully defended herself at the presentation.
